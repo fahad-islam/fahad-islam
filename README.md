@@ -1,14 +1,17 @@
+
+
 <table>
   <tr>
-    <td>
       <a href="http://www.github.com/fahad-islam"><img src="https://github-readme-stats.vercel.app/api?username=fahad-islam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" alt="fahad-islam's GitHub stats" /></a>
     </td>
+    <br />
     <td>
-<a href="http://www.github.com/fahad-islam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-islam&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</td>
-<td>
-<a href="https://github.com/fahad-islam"><img alt="Fahad Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-islam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-</td>
+      <a href="http://www.github.com/fahad-islam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-islam&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <br />
+    <td>
+      <a href="https://github.com/fahad-islam"><img alt="Fahad Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-islam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
 
   <tr>
   <tr>
