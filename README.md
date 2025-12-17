@@ -194,7 +194,6 @@
 ## Connect with me:
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/dev-fahadislam"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_fahadislam"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.dev.to/fahadislam"><img src="https://img.icons8.com/windows/48/000000/dev.png"/></a>
+  <a href = "https://www.linkedin.com/in/dev-fahad-islam"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/_fahadislam"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
