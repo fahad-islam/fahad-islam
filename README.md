@@ -12,7 +12,7 @@ Full Stack Engineer with **strong backend expertise** specializing in **API deve
 - Microservices & Event-Driven Architecture
 
 **Backend Technologies**
-- **Languages**: Node.js/TypeScript (Express, NestJS, Effect-ts), Python (Django, FastAPI), Java (Spring Boot), Go, PHP (Laravel)
+- **Languages**: Node.js/TypeScript (Express, NestJS, Effect-ts), Python (Django, FastAPI)
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
 - **DevOps**: Docker, Kubernetes, AWS/Azure/GCP, CI/CD (GitHub Actions, Jenkins)
 
