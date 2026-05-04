@@ -46,7 +46,7 @@ Feel free to reach out if you'd like to collaborate on a project or just want to
 
 - **GitHub**: [fahad-islam](https://github.com/fahad-islam)
 - **LinkedIn**: [dev-fahad-islam](https://www.linkedin.com/in/dev-fahad-islam/)
-- **Email**: [fahadislam.dev@gmail.com](mail:fahadislam.dev@gmail.com)
+- **Email**: [fahadislam.dev@gmail.com](mailto:fahadislam.dev@gmail.com)
 
 ---
 
