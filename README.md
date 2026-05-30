@@ -1,4 +1,4 @@
-# 🧑‍💻 Full Stack Engineer 🪄
+# 🧑‍💻 Full Stack AI Engineer 🪄
 
 Full Stack Engineer with **strong backend expertise** specializing in **API development** and **system integrations**. I build end-to-end solutions with scalable backend systems and modern user interfaces.
 
